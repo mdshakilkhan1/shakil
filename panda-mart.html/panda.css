@@ -1,0 +1,88 @@
+.nav{
+    margin-left:50px ;
+    margin-right: 50px;
+}
+
+#img{
+    width: 400px;
+}
+/* sec 1 */
+#raw{
+    align-items: center;
+}
+#shakil{
+    padding: 60px;
+    background-color:  #FCEAE8;
+    border-radius: 10px;
+}
+.section1{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.price{
+    color:  #FF136F;;
+}
+.btn{
+    width: 100px;
+    padding: 7px;
+    background-color:  #FF136F;;
+}
+/* section 2 */
+.child{
+   width: 350px;
+   border-radius: 10px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+#child1{
+   background-color:  #FFA500;;
+}
+#child2{
+    background-color:  #DA70D6;
+}
+#child3{
+      background-color: #0000FF;;
+}
+.card{
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.hh{
+text-align: center;
+}
+.container{
+    display: flex;
+    justify-content:space-between;
+    margin: 40px;
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+.container3{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+/* section 5 */
+.container4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    padding: 60px;
+    background-color:  thistle;
+    border-radius: 10px;
+}
+
+.foot{
+    text-align: center;
+    padding: 10px;
+}
+
+
